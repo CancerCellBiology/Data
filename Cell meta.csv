@@ -1,0 +1,38 @@
+,Cell,type1,type2
+0,BT-474,solid,Breast cancer
+1,MCF-7,solid,Breast cancer
+2,SK-BR-3,solid,Breast cancer
+3,SiHa,solid,Cervix cancer
+4,C33A,solid,Cervix cancer
+5,HCT-116,solid,Colon cancer
+6,HT-29,solid,Colon cancer
+7,SW-480,solid,Colon cancer
+8,SW-620,solid,Colon cancer
+9,LN-18,solid,Glioblastoma
+10,U251,solid,Glioblastoma
+11,H1299,solid,Lung cancer
+12,A549,solid,Lung cancer
+13,CEM-SS,suspension,Lymphoblastic
+14,Jurkat,suspension,Lymphoblastic
+15,MOLT-4,suspension,Lymphoblastic
+16,HL-60,suspension,Myeloid
+17,K562,suspension,Myeloid
+18,Kasumi-1,suspension,Myeloid
+19,Kg1a,suspension,Myeloid
+20,MV4;11,suspension,Myeloid
+21,THP-1,suspension,Myeloid
+22,U937,suspension,Myeloid
+23,UKE-1,suspension,Myeloid
+24,IMR-32,solid,Neuroblastoma
+25,Kelly,solid,Neuroblastoma
+26,LAN-1,solid,Neuroblastoma
+27,SH-SY5Y,solid,Neuroblastoma
+28,SK-N-AS,solid,Neuroblastoma
+29,SK-N-BE,solid,Neuroblastoma
+30,SK-N-SH,solid,Neuroblastoma
+31,A431,solid,other
+32,HepG2,solid,other
+33,SK-OV-3,solid,other
+34,TE-671,solid,other
+35,786-0,solid,Renal cancer
+36,ACHN,solid,Renal cancer
