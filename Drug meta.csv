@@ -7,7 +7,7 @@
 5,Alisertib,ALIS,Aurora A,"cell cycle inhibitor, apoptosis activator",96.4 mM,5 mM,nM,DMSO,ALISERTIB
 6,Alpelisib,ALP,PI3Ka,PI3K/AKT/mTor inhibitor,25 mM,,uM,DMSO,ALPELISIB
 7,Axitinib,AXIT,"VEGFR1, VEGFR2, VEGFR3, PDGFRβ, KIT","RTK inhibitor, angiogenesis inhibitor",80.7 mM,20 mM,uM,DMSO,AXITINIB
-8,AZD7762,AZD77,"CHK1, CHK2",cell cycle inhibitor,50 mM,5 mM,uM,DMSO,AZD7762
+8,AZD7762,AZD77,"CHK1, CHK2",cell cycle inhibitor,50 mM,5 mM,nM,DMSO,AZD7762
 9,Bafetinib,BAF,"SRC, Lyn",SRC inhibitor,100 mM,25 mM,uM,DMSO,BAFETINIB
 10,Baricitinib,BARIC,"JAK1, JAK2",JAK/STAT inhibitor,100 mM,,uM,DMSO,BARICITINIB
 11,Belinostat,BEL,HDAC,"epigenetic modulator, HDAC inhibitor",201 mM,"5 mM, 25 mM",uM,DMSO,BELINOSTAT
@@ -20,9 +20,9 @@
 18,Colchicine,COLCH,microtubule polymerization,microtubules inhibitor,197.8 mM,,,,COLCHICINE
 19,Crizotinib,CRIZ,"c-Met, ALK, ROS1",RTK inhibitor,55.5 mM,5 mM,uM,DMSO,CRIZOTINIB
 20,Curcumin,CURC,histone acetylatransferase,"epigenetic modulator, apoptosis inducer",27 mM,27 mM,uM,DMSO,CURCUMIN
-21,Cytarabine,ARAC,DNA synthesis,DNA synthesis inhibitor,,2 mM,,DMSO,CYTARABINE
+21,Cytarabine,ARAC,DNA synthesis,DNA synthesis inhibitor,,2 mM,nM,DMSO,CYTARABINE
 22,Dactolisib,DACT,"PI3K, mTOR, ATR",PI3K/AKT/mTor inhibitor,19 mM,"500 uM, 5 mM",nM,DMSO,DACTOLISIB
-23,Dasatinib,DAS,"SRC, BCR/ABL1, KIT","RTK inhibitor, SRC inhibitor, BCR/ABL1 inhibitor",200 mM,"5 mM, 50 mM",uM,DMSO,DASATINIB
+23,Dasatinib,DAS,"SRC, BCR/ABL1, KIT","RTK inhibitor, SRC inhibitor, BCR/ABL1 inhibitor",200 mM,"5 mM, 50 mM",nM,DMSO,DASATINIB
 24,Daunorubicin,DAUN,"topoisomerase II, DNA synthesis","DNA synthesis inhibitor, topoisomerase II inhibitor",25 mM,25 mM,uM,DMSO,DAUNORUBICIN
 25,Decitabine,DECIT,"DNA methyltransferase, DNA synthesis","epigenetic modulator, DNA synthesis inhibitor",197 mM,25 mM,uM,DMSO,DECITABINE
 26,Dexamethasone,DEX,glucocorticoid receptors,"glucocorticoid, differentiation agent",772 mM,50 mM,uM,DMSO,DEXAMETHASONE
@@ -35,7 +35,7 @@
 33,Etomoxir,EMX,CPT-1,apoptosis inducer,65.5 mM,65.5 mM,uM,DMSO,ETOMOXIR
 34,Etoposide,ETOP,"topoisomerase II, DNA synthesis","DNA synthesis inhibitor, topoisomerase II inhibitor",50 mM,20 mM,uM,DMSO,ETOPOSIDE
 35,Everolimus,EVER,"mTOR, FKBP12",PI3K/AKT/mTor inhibitor,107.4 mM,,uM,,EVEROLIMUS
-36,FCCP,FCCP,Mitochondria potential,Mitochondria inhibitor,393 mM,50 mM,,DMSO,FCCP
+36,FCCP,FCCP,Mitochondria potential,Mitochondria inhibitor,393 mM,50 mM,uM,DMSO,FCCP
 37,Flavopiridol,FLAVO,"CDK1, CDK2, CDK4, CDK6, CDK9",cell cycle inhibitor,50 mM,250 uM,nM,DMSO,FLAVOPIRIDOL
 38,FR180204,FR,"ERK1, ERK2",MAPK inhibitor,198.5 mM,,uM,DMSO,FR180204
 39,GDC-0994,GDC,"ERK1, ERK2",MAPK inhibitor,198 mM,,uM,DMSO,GDC0994
@@ -52,9 +52,9 @@
 50,Lovastatin,LOVAS,HMG-CoA,cell cycle inhibitor,197 mM,,uM,DMSO,LOVASTATIN
 51,LY3214996,LY-32,"ERK1, ERK2",MAPK inhibitor,59.5 mM,,uM,DMSO,LY3214996
 52,Metformin,METF,p38,JNK/p38 MAPK activator,201 mM,50 mM,uM,DMSO,METFORMIN
-53,Midostaurin,MIDO,"FLT3, PKC, SYK, Flk-1, AKT, PKA, KIT, FGR, SRC, PDFRβ, VEGFR1/2","RTK inhibitor, SYK inhibitor, PI3K/AKT/mTor inhibitor, SRC inhibitor, PKC inhibitor",50 mM,,,DMSO,MIDOSTAURIN
+53,Midostaurin,MIDO,"FLT3, PKC, SYK, Flk-1, AKT, PKA, KIT, FGR, SRC, PDFRβ, VEGFR1/2","RTK inhibitor, SYK inhibitor, PI3K/AKT/mTor inhibitor, SRC inhibitor, PKC inhibitor",50 mM,,nM,DMSO,MIDOSTAURIN
 54,Mithramycin,MITH,"DNA synthesis, SP1","DNA synthesis inhibitor, SP1 inhibitor",,,nM,DMSO,MITHRAMYCIN
-55,Nintedanib,NINT,"VEGFR1/2/3, FGFR1/2/3 and PDGFRα/β","RTK inhibitor, angiogenesis inhibitor",18.5 mM,5 mM,,DMSO,NINTEDANIB
+55,Nintedanib,NINT,"VEGFR1/2/3, FGFR1/2/3 and PDGFRα/β","RTK inhibitor, angiogenesis inhibitor",18.5 mM,5 mM,nM,DMSO,NINTEDANIB
 56,Nocodazole,NOC,"microtubule polymerization, ABL",microtubules inhibitor,,200 uM,,,NOCODAZOLE
 57,Olaparib,OLA,"PARP1, PARP2",DNA damage repair inhibitor,87 mM,25 mM,uM,DMSO,OLAPARIB
 58,Paclitaxel,PACL,microtubule polymerization,microtubules inhibitor,50 mM,1 mM,nM,DMSO,PACLITAXEL
@@ -62,10 +62,10 @@
 60,Panobinostat,PAN,HDAC,"epigenetic modulator, HDAC inhibitor",100 mM,500 uM,nM,DMSO,PANOBINOSTAT
 61,PD0166285,PD016,"Wee1, Chk1",cell cycle inhibitor,50 mM,250 uM,nM,DMSO,PD0166285
 62,PD0325901,PD,"MEK1, MEK2",MAPK inhibitor,41.5 mM,2.5 mM,uM,DMSO,PD0325901
-63,Pexidartinib,PEXID,"CSF1R, KIT, FLT3",RTK inhibitor,25 mM,25 mM,uM,DMSO,PEXIDARTINIB
+63,Pexidartinib,PEXID,"CSF1R, KIT, FLT3",RTK inhibitor,25 mM,25 mM,nM,DMSO,PEXIDARTINIB
 64,PIM-447,PIM,"PIM1, PIM2, PIM3",JAK/STAT inhibitor,50 mM,20 mM (25 mM),uM,DMSO,PIM447
 65,PRT062607,PRT06,SYK,SYK inhibitor,100 mM,25 mM,uM,DMSO,PRT062607
-66,Quizartinib,QUIZ,FLT3,RTK inhibitor,50 mM,25 mM,uM,DMSO,QUIZARTINIB
+66,Quizartinib,QUIZ,FLT3,RTK inhibitor,50 mM,25 mM,nM,DMSO,QUIZARTINIB
 67,R406,R406,"SYK, EGFR, FLT3","RTK inhibitor, SYK inhibitor",159 mM,25 mM,uM,DMSO,R406
 68,Rapamycin,RAP,mTOR,PI3K/AKT/mTor inhibitor,27.3 mM,250 uM,nM,DMSO,RAPAMYCIN
 69,Retinoic acid,RA,"RAR, RXR",differentiation agent,,,uM,,RETINOIC ACID
@@ -89,7 +89,7 @@
 87,Trametinib,TRAM,"MEK1, MEK2",MAPK inhibitor,13 mM,,uM,DMSO,TRAMETINIB
 88,Ulixertinib,ULIX,"ERK1, ERK2",MAPK inhibitor,198 mM,10 mM,uM,DMSO,ULIXERTINIB
 89,Valproic acid,VPA,HDAC,"epigenetic modulator, HDAC inhibitor",,,uM,,VALPROIC ACID
-90,Venetoclax,VEN,BCL2,"apoptosis inducer, BCL inhibitor",50 mM,25 mM,uM,DMSO,VENETOCLAX
+90,Venetoclax,VEN,BCL2,"apoptosis inducer, BCL inhibitor",50 mM,25 mM,nM,DMSO,VENETOCLAX
 91,Vincristine,VIN,microtubule polymerization,microtubules inhibitor,21.7 mM,250 uM,nM,DMSO,VINCRISTINE
 92,Volasertib,VOLAS,"PLK1, PLK2",cell cycle inhibitor,56.5 mM,500 uM,nM,DMSO,VOLASERTIB
 93,Vorinostat,VOR,HDAC,"epigenetic modulator, HDAC inhibitor",197 mM,20 mM,uM,DMSO,VORINOSTAT
